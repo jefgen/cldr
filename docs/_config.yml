@@ -1,6 +1,13 @@
 title: CLDR LDML
-name: CLDR LDML
 
 description: The Unicode Unicode Common Locale Data Repository (CLDR) Locale Data Markup Language (LDML).
 
 markdown: kramdown
+
+plugins:
+  - kramdown
+  - kramdown-parser-gfm
+  - jemoji
+ 
+kramdown:
+  input: GFM
