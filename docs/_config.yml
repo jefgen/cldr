@@ -1,3 +1,6 @@
+title: CLDR LDML
 name: CLDR LDML
 
-markdown: GFM
+description: The Unicode Unicode Common Locale Data Repository (CLDR) Locale Data Markup Language (LDML).
+
+markdown: kramdown
